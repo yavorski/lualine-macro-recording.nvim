@@ -26,4 +26,4 @@ Add `yavorski/lualine-macro-recording` as dependecy to `lualine` plugin definiti
 
 ## Screenshot
 
-![lualine-macro-recording-plugin](https://gcdnb.pbrd.co/images/W1pixLjHWA5h.png?o=1)
+![lualine-macro-recording](https://github.com/user-attachments/assets/26a24ddc-395f-43cc-b8cd-0b0c4dafe2a6)
